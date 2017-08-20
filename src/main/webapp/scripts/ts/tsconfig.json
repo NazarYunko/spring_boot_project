@@ -1,0 +1,15 @@
+{
+  "compileOnSave": true,
+  "compilerOptions" : {
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "../js",
+    "target": "es5",
+    "charset": "utf-8",
+    "watch": true
+  },
+  "files": [
+    "main.ts",
+    "user.ts"
+  ]
+}
